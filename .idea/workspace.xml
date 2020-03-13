@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584101345656</updated>
-      <workItem from="1584101347205" duration="2655000" />
+      <workItem from="1584101347205" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="initial gitignore">
       <created>1584104084102</created>
@@ -67,7 +67,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584104084102</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore update">
+      <created>1584104199346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584104199346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore nie dziala">
+      <created>1584104290088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584104290088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove unused files">
+      <created>1584104316401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584104316401</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,16 +96,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial gitignore" />
+    <MESSAGE value="gitignore update" />
+    <MESSAGE value="gitignore nie dziala" />
+    <MESSAGE value="remove unused files" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unused files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="61" key="CommitChangelistDialog2" timestamp="1584104288634">
+    <state x="569" y="61" key="CommitChangelistDialog2" timestamp="1584104316206">
       <screen x="0" y="23" width="1920" height="1018" />
     </state>
-    <state x="569" y="61" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1584104288634" />
-    <state x="560" y="285" key="Vcs.Push.Dialog.v2" timestamp="1584104295462">
+    <state x="569" y="61" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1584104316206" />
+    <state x="560" y="285" key="Vcs.Push.Dialog.v2" timestamp="1584104319565">
       <screen x="0" y="23" width="1920" height="1018" />
     </state>
-    <state x="560" y="285" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1584104295462" />
+    <state x="560" y="285" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1584104319565" />
   </component>
 </project>
